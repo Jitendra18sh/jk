@@ -29,7 +29,7 @@
 - 🌱 I’m currently learning about **Cloud Computing (AWS/Azure)** and **DevOps principles**.
 - 💬 Ask me about **Java, Python, Data Structures, and Web Development**.
 - 📫 How to reach me: jitendrakumar74939@gmail.com
-- ⚡ Fun fact: I believe the best code is written with a cup of COFFE nearby! ☕
+- ⚡ Fun fact: I believe the best code is written with a cup of COFFEE nearby! ☕
 
 ---
 

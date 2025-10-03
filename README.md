@@ -4,18 +4,18 @@
     Hi there, I'm Jitendra kumar  👋
   </h1>
   <p>
-    I'm a passionate Master of Computer Applications (MCA) student from Ghaziabad, India. 
+    I'm a passionate  about Master of Computer Applications (MCA) student from  SRMIST NCR CAMPUS, GHAZIABAD ,DELHI  India. 
     <br/>
     I love building scalable web applications and exploring new technologies.
   </p>
   <div id="socials" align="center">
-    <a href="https://www.linkedin.com/in/[your-linkedin-username]/">
+    <a href="https://www.https://www.linkedin.com/in/jitendra-kumar-130b25347?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B08jsZxoTRECh5kUshs5%2FdA%3D%3Dlinkedin.com/in/[your-linkedin-username">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://twitter.com/[your-twitter-username]">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
-    <a href="mailto:[your-email-address@domain.com]">
+    <a href="email:[jitendrakumar74939@gmail.com]">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
   </div>
@@ -25,11 +25,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm currently pursuing my **Master of Computer Applications (MCA)** from a university in Ghaziabad.
+- 🎓 I'm currently pursuing my **Master of Computer Applications (MCA)** from  SRM university in Ghaziabad.
 - 🌱 I’m currently learning about **Cloud Computing (AWS/Azure)** and **DevOps principles**.
 - 💬 Ask me about **Java, Python, Data Structures, and Web Development**.
-- 📫 How to reach me: **[your-email-address@domain.com]**
-- ⚡ Fun fact: I believe the best code is written with a cup of chai nearby! ☕
+- 📫 How to reach me: jitendrakumar74939@gmail.com
+- ⚡ Fun fact: I believe the best code is written with a cup of COFFE nearby! ☕
 
 ---
 
@@ -100,7 +100,7 @@ Here are some of the projects I've worked on.
 <div align="center">
   <h3>Connect with me</h3>
   <p>
-    <a href="https://www.linkedin.com/in/[your-linkedin-username]/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https:// https://www.linkedin.com/in/jitendra-kumar-130b25347?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4xkxrzfnR8eBovhFeSN9pg%3D%3D></a>
     <a href="https://twitter.com/[your-twitter-username]" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
     <a href="[your-portfolio-website-url]" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
   </p>
